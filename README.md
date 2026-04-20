@@ -76,9 +76,8 @@ project-folder/
 
 ## 📸 Author Photo
 
-<!-- Yaha apni photo ka link add karo -->
 
-![Author Photo](your-image-link-here)
+![shubham](https://github.com/shubhamsharnagate.png)
 
 ---
 
